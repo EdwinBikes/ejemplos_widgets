@@ -1,0 +1,10 @@
+export 'package:ejemplos_widgets/screens/alert_screen.dart';
+export 'package:ejemplos_widgets/screens/animated_screen.dart';
+export 'package:ejemplos_widgets/screens/avatar_screen.dart';
+export 'package:ejemplos_widgets/screens/card_screen.dart';
+export 'package:ejemplos_widgets/screens/home_screen.dart';
+export 'package:ejemplos_widgets/screens/inputs_screen.dart';
+export 'package:ejemplos_widgets/screens/listview1.dart';
+export 'package:ejemplos_widgets/screens/listview2.dart';
+export 'package:ejemplos_widgets/screens/listview_builder_screen.dart';
+export 'package:ejemplos_widgets/screens/slider_screen.dart';
